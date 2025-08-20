@@ -1,4 +1,4 @@
 # Apnacollage.Demo
 this is my first Repository
 <br/>
-Author-Abhijit
+Author-Abhijit (apna collage)
